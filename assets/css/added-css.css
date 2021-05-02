@@ -1,0 +1,20 @@
+.img-fluid.image {
+  border: 1px solid #000;
+}
+
+.social-icons a .footer-icon {
+  color: #000;
+}
+
+a:hover .youtube {
+  color: red;
+}
+
+a:hover .google {
+  color: #4285F4;
+}
+
+a:hover .github {
+  color: #171a20;
+}
+
