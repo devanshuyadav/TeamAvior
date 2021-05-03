@@ -2542,7 +2542,7 @@ select.form-control[multiple], select.form-control[size], textarea.form-control 
 
 .btn.focus, .btn:focus {
   outline: 0;
-  box-shadow: 0 0 0 .2rem rgba(14, 160, 255, .25)
+  box-shadow: 0 0 0 0.2rem rgb(34 39 49 / 50%)
 }
 
 .btn.disabled, .btn:disabled {
